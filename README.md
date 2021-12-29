@@ -6,7 +6,7 @@
 
 Использование fetch API и JS modules. 
 
-Результат можно увидеть здесь:
+Результат можно увидеть здесь: https://awesome-nightingale-a6f386.netlify.app/
 
 
 ## Основные Особенности:
