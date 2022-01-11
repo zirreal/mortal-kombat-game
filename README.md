@@ -1,4 +1,4 @@
-# Mortal Kombat game
+# Mortal Kombat game 🧊 
 
 Игра Mortal Kombat в не совсем привычно формате 🥷 
 
@@ -14,4 +14,30 @@
 - Работа с JS Class
 - Запросы на сервер и подгрузка информации с помощью Fetch API
 - async/await
+
+
+---
+
+=========================
+
+---
+
+> :bulb: **ENG** 
+
+``` English description of this project ```
+
+not an ordinary mortal kombat game  🥷 
+
+**DEMO only**.  
+
+
+You can check out the result here: https://awesome-nightingale-a6f386.netlify.app/
+ 
+
+## Key Features:
+- JS modules
+- JS Class
+- Fetch API
+- async/await
+
 
